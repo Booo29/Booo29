@@ -42,7 +42,7 @@
 
 ###
 
-<h1 align="left">Social Media</h1>
+<h1 align="left">Social Networks</h1>
 
 ###
 
